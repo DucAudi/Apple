@@ -1,0 +1,56 @@
+.container {
+    /* background-color: antiquewhite; */
+    height: 1100px;
+}
+
+/* header */
+.container .r1{
+    /* position: relative; */
+}
+.container .hd2{
+    margin: 0 ;
+}
+.container .r1 h2{
+    margin-top: 5px;
+    text-align: center;
+    text-transform: capitalize;
+    /* color: white; */
+}
+.r1 span{
+    color: white;
+}
+.clr1{
+    
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* slide */
+.container .my-carosel{
+    width: 100%;
+    height: 550px;
+}
+/* card */
+.container .r3{
+    width: 100%;
+}
+.container .r3 p{
+    margin: 0;
+    margin: 0.2em 0;
+}
+.container .r3 img{
+    height: 200px;
+}
+/* title */
+.container .title{
+    text-align: center;
+    text-transform: capitalize;
+}
+/* end */
+.r4{
+    /* background-color: darksalmon; */
+    text-transform: none;
+}
+.r4 .pr4{
+    margin-top: 8px;
+}
